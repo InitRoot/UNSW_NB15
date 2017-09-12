@@ -3,7 +3,8 @@ Feature coded UNSW_NB15 intrusion detection data.
 
 All categorical features have been converted to numerical values for neural network processing. Will upload .arff files correctly coded for WEKA soon.
 
-Please reference this github for any usage within your research and the conference paper.
+Please reference this github for any usage within your research and the conference paper. Original website and author work here:
+https://www.unsw.adfa.edu.au/australian-centre-for-cyber-security/cybersecurity/ADFA-NB15-Datasets/
 
 Botes, F., Leenen, L. and De La Harpe, R. (2017). Ant Colony Induced Decision Trees for Intrusion Detection. In: 16th European Conference on Cyber Warfare and Security. ACPI (June 12, 2017), pp.74-83.
 
